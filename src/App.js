@@ -6,7 +6,7 @@ function App() {
   return (
     <>
     <header>
-      <h1>Oppskrifter:D</h1>
+      <h1 className='container'>Oppskrifter:D</h1>
     </header>
     <main></main>
     <footer></footer>
